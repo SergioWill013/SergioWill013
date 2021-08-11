@@ -1,6 +1,7 @@
 ### Olá, Sou Sergio William, recém e ambicioso Dev Front-end.
 
-<br />
+----------------
+
 ### Meios de contato:
 
 [<img align="left" alt="Sergio William | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][Github]
