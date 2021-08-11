@@ -7,7 +7,6 @@
 [<img align="left" alt="Sergio William | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
 [<img align="left" alt="Sergio William | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
 
-<
 
 ### Conhecimentos em:
 
