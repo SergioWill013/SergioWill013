@@ -28,12 +28,12 @@
 [senai]: https://www.linkedin.com/company/senaipr/ 
 [facebook]: https://www.facebook.com/sergio.william.9
 [instagram]: https://www.instagram.com/sergilliam
-[youtube]: https://youtube.com
 [github1]: https://github.com
 [mysql]: https://mysql.com
-[node]: https://node.com
-[css]: https://css.com
-[html]: https://html.com
-[vscode]: https://vscode.com
+[node]: https://nodejs.org
+[css]: https://www.w3schools.com/css/
+[html]: https://www.w3schools.com/html/
+[vscode]: https://code.visualstudio.com/
+[js]: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
 
 
