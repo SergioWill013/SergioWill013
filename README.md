@@ -1,4 +1,4 @@
-### Olá, Sou Sergio William, recém e ambicioso Dev Front-end.
+### Olá, Sou Sergio William,  Dev Front-end.
 
 -----------
 
